@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FinalPro</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="menu_gallery" translatable="false">Gallery</string>
+    <string name="menu_slideshow" translatable="false">Slideshow</string>
+    <string name="my_restaurant_app" translatable="false">My Restaurant App</string>
+    <string name="hello_explore_your_dream_food" translatable="false">hello explore your dream food</string>
+    <string name="sing_in" translatable="false">sing in</string>
+    <string name="register" translatable="false">register</string>
+    <string name="full_name" translatable="false">full_name</string>
+    <string name="email_address" translatable="false">Email_address</string>
+    <string name="password" translatable="false">password</string>
+    <string name="daily_meal" translatable="false">Daily Meal</string>
+    <string name="favourite" translatable="false">Favourite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="my_cart" translatable="false">my_cart</string>
+    <string name="shorttimecoding_gmail_com" translatable="false">shorttimecoding_gmail_com</string>
+    <string name="_10_00_23_00" translatable="false">10:00 - 23:00</string>
+    <string name="product_name" translatable="false">Product Name</string>
+    <string name="_5_0" translatable="false">5.0</string>
+    <string name="your_favourite_and_testy_food_is_here" translatable="false">your favourite and testy food is here!</string>
+    <string name="view_more" translatable="false">view more</string>
+    <string name="make_order" translatable="false">Make Order</string>
+    <string name="set_data">set_data</string>
+</resources>
